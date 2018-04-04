@@ -1,2 +1,2 @@
 # Complete-el-nombre-de-las-imagenes
-Juego educativo en adobe html
+Tareas un poco viejitas: Juego educativo en adobe html
